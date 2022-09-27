@@ -1,0 +1,1 @@
+# beta-touhou-friends
