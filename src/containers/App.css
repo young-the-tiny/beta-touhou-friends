@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Parquetipo Unicase';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Parquetipo Unicase'), url('Parquetipo-Unicase.woff') format('woff');
+    }
+h1{
+    font-family: 'Parquetipo Unicase';
+    font-weight: 200;
+    background: linear-gradient(to right, #00ff5e 0%, #46d1ff 100%); 
+    background-clip: text;
+    color: transparent;
+}
